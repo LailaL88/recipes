@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/recipes/static/css/main.dc76b2ba.css",
+    "main.js": "/recipes/static/js/main.73ae2c5d.js",
+    "static/js/787.380eb6ec.chunk.js": "/recipes/static/js/787.380eb6ec.chunk.js",
+    "static/media/PlayfairDisplay-Regular.ttf": "/recipes/static/media/PlayfairDisplay-Regular.b982583b4edccc394bb4.ttf",
+    "static/media/quick-cheats-pizza.jpg": "/recipes/static/media/quick-cheats-pizza.3f5501894459bd0b1284.jpg",
+    "static/media/meatball-fattoush-taste.jpg": "/recipes/static/media/meatball-fattoush-taste.82f6c2699c1b33b64fa7.jpg",
+    "static/media/baked-seabass.jpg": "/recipes/static/media/baked-seabass.3444535f29ffe0404954.jpg",
+    "static/media/veggie-packed-tofu-coconut-red-curry-soup-healthy-recipes.jpg": "/recipes/static/media/veggie-packed-tofu-coconut-red-curry-soup-healthy-recipes.524c6a1d70350afffd08.jpg",
+    "static/media/pulled-chicken-beans.jpg": "/recipes/static/media/pulled-chicken-beans.a13f16c1c98f71466dd8.jpg",
+    "static/media/honey-garlic-shrimp.jpg": "/recipes/static/media/honey-garlic-shrimp.c5d55e87910b8baa7646.jpg",
+    "static/media/butternut-squash-and-black-bean-enchiladas.jpg": "/recipes/static/media/butternut-squash-and-black-bean-enchiladas.f1eda14d8207c9afaa14.jpg",
+    "static/media/delish-bucatinipasta.jpg": "/recipes/static/media/delish-bucatinipasta.1ba01a648a2cbb23460a.jpg",
+    "static/media/classic-minestrone-soup.jpg": "/recipes/static/media/classic-minestrone-soup.6939c47aab92bd3e2a73.jpg",
+    "static/media/big-italian-salad.jpg": "/recipes/static/media/big-italian-salad.ff02762fccae798d31c5.jpg",
+    "static/media/spiced-meatball-salad.jpg": "/recipes/static/media/spiced-meatball-salad.b89d7a50d13657037d86.jpg",
+    "static/media/desi-vegetable-oat-pancake.jpg": "/recipes/static/media/desi-vegetable-oat-pancake.9d2d5efc11f879f1b9ed.jpg",
+    "static/media/pork-soulvaki.jpg": "/recipes/static/media/pork-soulvaki.b7fc03008b4eae49dd6d.jpg",
+    "static/media/veggie-grilled-cheese-tomato-soup.jpg": "/recipes/static/media/veggie-grilled-cheese-tomato-soup.a142a22f5a350c9230a4.jpg",
+    "static/media/best-hamburger-patties.jpg": "/recipes/static/media/best-hamburger-patties.5f49705344ec7c3c0f10.jpg",
+    "static/media/healthy-weeknight-chicken-recipes-grilled-chicken-with-zucchini-noodles.jpg": "/recipes/static/media/healthy-weeknight-chicken-recipes-grilled-chicken-with-zucchini-noodles.64680f8b3ed92c507dde.jpg",
+    "static/media/coconut-squash-dhansak.jpg": "/recipes/static/media/coconut-squash-dhansak.363dc218356aef01994d.jpg",
+    "static/media/simple-pasta-with-cheese.jpg": "/recipes/static/media/simple-pasta-with-cheese.1b9ffe74485b4c5a9de9.jpg",
+    "static/media/quick-peach-melba-crumbles.jpg": "/recipes/static/media/quick-peach-melba-crumbles.fb00964144034f4a542e.jpg",
+    "static/media/cookies.jpg": "/recipes/static/media/cookies.ef62269e6d0454a8f94d.jpg",
+    "index.html": "/recipes/index.html",
+    "main.dc76b2ba.css.map": "/recipes/static/css/main.dc76b2ba.css.map",
+    "main.73ae2c5d.js.map": "/recipes/static/js/main.73ae2c5d.js.map",
+    "787.380eb6ec.chunk.js.map": "/recipes/static/js/787.380eb6ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc76b2ba.css",
+    "static/js/main.73ae2c5d.js"
+  ]
+}
