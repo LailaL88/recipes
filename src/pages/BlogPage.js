@@ -1,4 +1,7 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faAngleDoubleLeft } from "@fortawesome/free-solid-svg-icons";
 
 const BlogPage = (props) => {
       
@@ -27,7 +30,7 @@ const img = props.img;
         atque, neque tempora repellat non omnis deleniti sapiente quam
         quibusdam!
       </p>
-      
+      <Link to="/"><FontAwesomeIcon icon={faAngleDoubleLeft} /> Back to all recipes</Link>
     </div>
   );
 };

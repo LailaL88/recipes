@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.392b6794.css",
+    "main.js": "/static/js/main.a962613f.js",
+    "static/js/787.380eb6ec.chunk.js": "/static/js/787.380eb6ec.chunk.js",
+    "static/media/coconut-squash-dhansak.jpg": "/static/media/coconut-squash-dhansak.a233d98a53cd27c05044.jpg",
+    "static/media/PlayfairDisplay-Regular.ttf": "/static/media/PlayfairDisplay-Regular.b982583b4edccc394bb4.ttf",
+    "static/media/veggie-grilled-cheese-tomato-soup.jpg": "/static/media/veggie-grilled-cheese-tomato-soup.ce05314c95cb9b8ac410.jpg",
+    "static/media/butternut-squash-and-black-bean-enchiladas.jpg": "/static/media/butternut-squash-and-black-bean-enchiladas.e8e974527fc8fd6d3e0d.jpg",
+    "static/media/baked-seabass.jpg": "/static/media/baked-seabass.85b606e9b656d0e4af1a.jpg",
+    "static/media/spiced-meatball-salad.jpg": "/static/media/spiced-meatball-salad.a77a72d6ab07a23d1981.jpg",
+    "static/media/meatball-fattoush-taste.jpg": "/static/media/meatball-fattoush-taste.ea6668f20b00814e72e5.jpg",
+    "static/media/classic-minestrone-soup.jpg": "/static/media/classic-minestrone-soup.4514dfac782d470aafd5.jpg",
+    "static/media/quick-cheats-pizza.jpg": "/static/media/quick-cheats-pizza.1ab4b785aa8368da7b77.jpg",
+    "static/media/pulled-chicken-beans.jpg": "/static/media/pulled-chicken-beans.5f45f785dbc39f719743.jpg",
+    "static/media/veggie-packed-tofu-coconut-red-curry-soup-healthy-recipes.jpg": "/static/media/veggie-packed-tofu-coconut-red-curry-soup-healthy-recipes.524c6a1d70350afffd08.jpg",
+    "static/media/big-italian-salad.jpg": "/static/media/big-italian-salad.505d1f62afc00022bef7.jpg",
+    "static/media/delish-bucatinipasta.jpg": "/static/media/delish-bucatinipasta.aa4b758a9c2a40fc9f4a.jpg",
+    "static/media/desi-vegetable-oat-pancake.jpg": "/static/media/desi-vegetable-oat-pancake.120642127a85d9b4daf7.jpg",
+    "static/media/best-hamburger-patties.jpg": "/static/media/best-hamburger-patties.5f49705344ec7c3c0f10.jpg",
+    "static/media/honey-garlic-shrimp.jpg": "/static/media/honey-garlic-shrimp.f622302bb1e3322922c1.jpg",
+    "static/media/healthy-weeknight-chicken-recipes-grilled-chicken-with-zucchini-noodles.jpg": "/static/media/healthy-weeknight-chicken-recipes-grilled-chicken-with-zucchini-noodles.71f8eb7c8084adde37a1.jpg",
+    "static/media/pork-soulvaki.jpg": "/static/media/pork-soulvaki.510a690488e7627c2cde.jpg",
+    "static/media/simple-pasta-with-cheese.jpg": "/static/media/simple-pasta-with-cheese.4c26817ede2cdddb2935.jpg",
+    "static/media/quick-peach-melba-crumbles.jpg": "/static/media/quick-peach-melba-crumbles.9a320e220439eb7d3311.jpg",
+    "static/media/cookies.jpg": "/static/media/cookies.1d68288b8223b190b07c.jpg",
+    "index.html": "/index.html",
+    "main.392b6794.css.map": "/static/css/main.392b6794.css.map",
+    "main.a962613f.js.map": "/static/js/main.a962613f.js.map",
+    "787.380eb6ec.chunk.js.map": "/static/js/787.380eb6ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.392b6794.css",
+    "static/js/main.a962613f.js"
+  ]
+}
