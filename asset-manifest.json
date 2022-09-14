@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recipes/static/css/main.dc76b2ba.css",
-    "main.js": "/recipes/static/js/main.97d178c8.js",
+    "main.js": "/recipes/static/js/main.0c19bebc.js",
     "static/js/787.380eb6ec.chunk.js": "/recipes/static/js/787.380eb6ec.chunk.js",
     "static/media/PlayfairDisplay-Regular.ttf": "/recipes/static/media/PlayfairDisplay-Regular.b982583b4edccc394bb4.ttf",
     "static/media/quick-cheats-pizza.jpg": "/recipes/static/media/quick-cheats-pizza.3f5501894459bd0b1284.jpg",
@@ -26,11 +26,11 @@
     "static/media/cookies.jpg": "/recipes/static/media/cookies.ef62269e6d0454a8f94d.jpg",
     "index.html": "/recipes/index.html",
     "main.dc76b2ba.css.map": "/recipes/static/css/main.dc76b2ba.css.map",
-    "main.97d178c8.js.map": "/recipes/static/js/main.97d178c8.js.map",
+    "main.0c19bebc.js.map": "/recipes/static/js/main.0c19bebc.js.map",
     "787.380eb6ec.chunk.js.map": "/recipes/static/js/787.380eb6ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc76b2ba.css",
-    "static/js/main.97d178c8.js"
+    "static/js/main.0c19bebc.js"
   ]
 }
